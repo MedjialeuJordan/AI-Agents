@@ -1,0 +1,4 @@
+﻿candidatures.db
+*.db
+.env
+__pycache__/
